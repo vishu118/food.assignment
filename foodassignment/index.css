@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    text-align: center;
+    background-color: rgb(47, 190, 162);
+    padding: 30px;
+    font-size: 30px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+}
+
+.image1{
+    border: 20px solid  rgb(47, 190, 162);
+    width:250px ;
+    height: 250px;
+    
+
+}
+
+.image2{
+    border: 20px dashed rgb(47, 190, 162);
+    margin-left:30px ;
+    margin-right:30px ;
+    width:250px ;
+    height: 250px;
+}
+
+.image3{
+    border: 20px dotted rgb(47, 190, 162);
+    width:250px ;
+    height: 250px;
+
+}
+
+.image4{
+    border: 20px groove rgb(47, 190, 162);
+    width:250px ;
+    height: 250px;
+}
+
+.image5{
+    border: 20px inset rgb(47, 190, 162);
+    width:250px ;
+    height: 250px;
+    margin-left: 30px;
+}
+
+.image6{
+    border: 20px double rgb(47, 190, 162);
+    width:250px ;
+    height: 250px;
+}
+
+.image7{
+     width:250px ;
+    height: 250px; 
+    margin: 10px;
+}
+
+.pictures{
+    margin-left: 400px;
+
+    margin-bottom: 30px;
+}
+
+
+.pictures1{
+    margin-left: 550px;
+    margin-bottom: 30px;
+
+}
+
+.pictures2{
+    margin-left: 550px;
+    margin-bottom: 30px; 
+}
+
+.para h3{
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+    text-align: center;
+    color: white;
+    
+}
+
+.para p{
+    text-align: justify;
+    font-size: 30px;
+    color: white; 
+    padding-left: 30px; 
+    padding-right: 30px; 
+    margin-bottom: 30px;
+
+}
+
+.para{
+    border: 10px solid black;
+    border-top:solid green 10px ;
+    border-bottom: solid red 10px;
+    border-left:solid pink 10px ;
+    border-right:solid blue 10px;
+    background-color:rgb(21, 174, 144);
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    
+}
+
+
+.block{
+    background-color:rgb(21, 174, 144) ;
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+ }
+
+
+.net{
+    color: #fff;
+
+}
+.youtube{
+    margin-right: 15px;
+    margin-left: 15px;
+    color: #fff;
+
+}
+.insta{
+    color: #fff;
+
+}
+
